@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: darkgray;
+}
+
+h2, p, a{
+    text-align: center;
+
+}
+#readme-wrapper{
+    text-align: center;
+}
