@@ -9,7 +9,7 @@ h2, p, #readme-wrapper{
 
 a{
     text-decoration: none;
-    color: seagreen;
+    color: red;
     
 }
 
@@ -22,4 +22,29 @@ a:hover{
 span.name{
     color: mediumblue;
     font-weight: 800;
+}
+
+.boxes{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 1em;
+    border-radius: 0%;
+    width: 116px;
+    border: 1px solid black;
+}
+
+box1 {
+    background-color: cadetblue;
+}
+
+box2 {
+    background-color: greenyellow;
+}
+
+box3 {
+    background-color: mediumpurple;
+}
+
+box4 {
+    background-color: springgreen;
 }
