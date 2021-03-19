@@ -61,3 +61,52 @@ box4 {
     top: 78px;
 
 }
+
+h1{
+    color: crimson;
+}
+
+.original{
+    color: deeppink;
+}
+
+.additional{
+    color: lightcoral;
+}
+
+#showone{
+    color: mediumblue;
+}
+
+#showtwo{
+    color: mintcream;
+}
+
+#showthree{
+    color: saddlebrown;
+}
+
+#showfour{
+    color: turquoise;
+}
+
+#showfive{
+    color: yellow;
+}
+
+ul{
+    color:orangered;
+}
+
+.star{
+    color: seashell;
+}
+
+.wars{
+    color: tomato;
+}
+
+ulist{
+    display: block;
+    border: 2px solid black;
+}
