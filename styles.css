@@ -25,16 +25,18 @@ span.name{
 }
 
 .boxes{
-    display: inline-block;
+
+    display: block;
     margin: 0 auto;
     padding: 1em;
     border-radius: 0%;
-    width: 116px;
+    width: 150px;
     border: 1px solid black;
 }
 
 box1 {
     background-color: cadetblue;
+    po
 }
 
 box2 {
@@ -47,4 +49,15 @@ box3 {
 
 box4 {
     background-color: springgreen;
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color:black;
+    position: relative;
+    right: 42px;
+    top: 78px;
+
 }
