@@ -3,10 +3,23 @@ body{
     background-color: darkgray;
 }
 
-h2, p, a{
+h2, p, #readme-wrapper{
     text-align: center;
-
 }
-#readme-wrapper{
-    text-align: center;
+
+a{
+    text-decoration: none;
+    color: seagreen;
+    
+}
+
+a:hover{
+    font-weight: bold;
+    cursor: pointer;
+    color: gold;
+}
+
+span.name{
+    color: mediumblue;
+    font-weight: 800;
 }
